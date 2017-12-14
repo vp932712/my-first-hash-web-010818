@@ -1,6 +1,6 @@
-def my_hash(key, value)
+def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-name[key] = value
+name[key] = "value"
 name
 end
 
